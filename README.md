@@ -1,4 +1,4 @@
-## Personal Porfolio Site
+## Personal Portfolio Site
 
 ## Built with
 
